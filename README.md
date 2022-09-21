@@ -1,1 +1,1 @@
-# HOSPITAL-MANAGEMENT-SYSTEM
+This contains instructions of the project
